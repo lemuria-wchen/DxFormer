@@ -1,7 +1,6 @@
 ## DxFormer
 
-Code for paper: "DxFormer: A Decoupled Automatic Diagnostic System Based on Decoder-Encoder Transformer with Dense Symptom Representations"
-
+Code for paper: [DxFormer: A Decoupled Automatic Diagnostic System Based on Decoder-Encoder Transformer with Dense Symptom Representations](https://arxiv.org/abs/2205.03755). 
 ### Download data
 
 Download the datasets, then decompress them and put them in the corrsponding documents in  `data/{dxy|mz4|mz10}/raw`. For example, download mz4 dataset and put the dataset to the `data/mz4/raw`. 
